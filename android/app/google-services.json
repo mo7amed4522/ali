@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919646042557",
+    "project_id": "comaliapp",
+    "storage_bucket": "comaliapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919646042557:android:c06bdbc17cd52b2637fad4",
+        "android_client_info": {
+          "package_name": "com.ali.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919646042557-5oe1m86e9ht54iq2n8ne80dv8hbmour5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrG4ag0uPze-twnln7Ghk8z_ipjMtM4tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919646042557-5oe1m86e9ht54iq2n8ne80dv8hbmour5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
